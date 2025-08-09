@@ -9,11 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3IycnNod3d4eTJkY2V4aGlwZ284bWl5MG5rcmp6MHJ5a25nYzh0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/R03zWv5p1oNSQd91EP/giphy.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
@@ -31,7 +27,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/channel/UCUFTYkrzrmR-fxA953Y6UjQ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -42,8 +38,7 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3IycnNod3d4eTJkY2V4aGlwZ284bWl5MG5rcmp6MHJ5a25nYzh0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/R03zWv5p1oNSQd91EP/giphy.gif"  />
+</div>
 
-<img src="https://raw.githubusercontent.com/masteribro/masteribro/output/snake.svg" alt="Snake animation" />
-
-###
